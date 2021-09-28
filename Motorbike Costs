@@ -1,0 +1,38 @@
+Transport="Motorbike"
+CostofMotorbike=2000
+print(Transport)
+print(CostofMotorbike)
+CostofMotorbike=CostofMotorbike-200
+print(Transport)
+print(CostofMotorbike)
+CostofMotorbike=CostofMotorbike-200
+print(Transport)
+print(CostofMotorbike)
+CostofMotorbike=CostofMotorbike-200
+print(Transport)
+print(CostofMotorbike)
+CostofMotorbike=CostofMotorbike-200
+print(Transport)
+print(CostofMotorbike)
+CostofMotorbike=CostofMotorbike-200
+print(Transport)
+print(CostofMotorbike)
+CostofMotorbike=CostofMotorbike-200
+print(Transport)
+print(CostofMotorbike)
+
+Transport="Motorbike"
+BikeCost=2000
+print ("When purchased my", Transport, "it cost me £", BikeCost)
+BikeCost=BikeCost-200
+print ("However a year later with 10% depreciation my bike is now only worth £", BikeCost)
+BikeCost=BikeCost-200
+print ("After two years the value has dropped a further 10% so the value now is £", BikeCost)
+BikeCost=BikeCost-200
+print ("After three years and a further 10% drop the value now is £", BikeCost)
+BikeCost=BikeCost-200
+print ("After four years and a further 10% drop the value now is £", BikeCost)
+BikeCost=BikeCost-200
+print ("After five years and a further 10% drop the value now is £", BikeCost)
+BikeCost=BikeCost-200
+print ("Six years after purchase the value of my", Transport, "is now under £1000 as its now only  worth just", BikeCost)
